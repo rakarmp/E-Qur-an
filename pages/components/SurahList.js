@@ -26,7 +26,7 @@ export default function SurahList({ surah }) {
               color="blue.500"
               fontWeight="bold"
             >
-              {s.nama}
+              {s.namaLatin}
             </ChakraLink>
           </Box>
         ))}
