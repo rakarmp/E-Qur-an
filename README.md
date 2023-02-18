@@ -1,4 +1,4 @@
-# Al-Qur'an
+# E-Qur'an
 
 This is a simple online version of the Al-Qur'an built using Next.js and Chakra UI. The website retrieves data from the EQuran API and displays a list of all surahs (chapters) in the Qur'an. Users can click on a surah to view the details of the surah, including the name, verses, and translations.
 
